@@ -2,7 +2,8 @@
 layout: post
 title: Viewing Party
 subtitle: Watch Movies with your Friends
-cover-img: /assets/img/movies.jpg
+cover-img: /assets/img/movie_seats.webp
+thumbnail-img: /assets/img/dark_movies.jpg
 gh-repo: EmmyMorris/viewing_party
 gh-badge: [star, fork, follow]
 tags: [Rails, RSpec, PostgreSQL, Heroku, ReST API consumption, Authentication and Authorization]
