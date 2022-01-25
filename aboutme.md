@@ -6,10 +6,9 @@ subtitle: Get to know me more!
 
 My name is Emmy Morris. I have the following qualities:
 
-- I am very passionate about animals
-- I'm extremely loyal to my family
-- I am a team player
-- I am very committed to everything I do
+- I love animals, so I have 3 dogs and 4 cats
+- Growing up I did cheerleading and Girl Scouts
+- I am a very positive person in everything I do
 
 What else do you need?
 
