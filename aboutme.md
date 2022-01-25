@@ -1,13 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know me more!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Emmy Morris. I have the following qualities:
 
-- I rock a great mustache
+- I am very passionate about animals
 - I'm extremely loyal to my family
+- I am a team player
+- I am very committed
+- I am grumpy ALL the time!
 
 What else do you need?
 

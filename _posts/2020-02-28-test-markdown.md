@@ -1,32 +1,24 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Viewing Party
+subtitle: Watch Movies with your Friends
+gh-repo: EmmyMorris/viewing_party
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Viewing Party allows users to explore movies via The Movie Database API and create viewing parties. Users can host their own parties and invite their friends on the app or attend parties hosted by other users.
 
-**Here is some bold text**
+**View the App**
 
 ## Here is a secondary heading
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Viewing Party App](viewing_party_app.png)
 
 It can also be centered!
 
